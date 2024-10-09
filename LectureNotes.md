@@ -160,3 +160,63 @@ e.g. dice number
 
 e.g. a person's height
 
+### PMF and PDF
+
+* PMF
+
+For Discrete RVs
+
+* PDF
+
+For Continuous RVs
+
+The value of PDF(f(x)) at a specific point represents the density of the probability around that point
+
+<img src="https://gitee.com/OooAlex/study_note/raw/master/img/202409111745453.jpg" alt="48c07a70bed73d6ff7297a5488b443d" style="zoom: 33%;" />
+
+### Mean and Variance
+
+* Mean
+
+<img src="https://gitee.com/OooAlex/study_note/raw/master/img/202409111755154.jpg" alt="09f2a126abfd561d4fc9ddebc615211" style="zoom: 33%;" />
+
+* Variance
+
+<img src="https://gitee.com/OooAlex/study_note/raw/master/img/202409111756456.jpg" alt="d29d7c37a0c597fa273c75aa26631da" style="zoom:33%;" />
+
+### Normal Distribution
+
+PDF: f(x) = …:
+
+<img src="https://gitee.com/OooAlex/study_note/raw/master/img/202409111742849.png" alt="image-20240911174216708" style="zoom: 50%;" />
+
+### Joint Probability Distribution
+
+<img src="https://gitee.com/OooAlex/study_note/raw/master/img/202409111806472.jpg" alt="a5edb7bbc4d994431873f1daad719da" style="zoom: 50%;" />
+
+### Covariance
+
+<img src="https://gitee.com/OooAlex/study_note/raw/master/img/202409161759329.png" alt="image-20240916175926042" style="zoom: 50%;" />
+
+
+
+# Lecture3
+
+## Linear Regression
+
+**Supervised** vs **Unsupervised** Learning
+
+**Regression** vs **Classification**
+
+**Gradient Descent**
+
+<img src="https://gitee.com/OooAlex/study_note/raw/master/img/202409161834349.jpg" alt="de9556f66e4aec6aba178199d9280cf" style="zoom: 67%;" />
+
+**Linear Regression**
+
+**Minimizing Loss Function**
+
+<img src="https://gitee.com/OooAlex/study_note/raw/master/img/202410081914345.jpg" alt="fade74f11354dbfc9b9d72b6b229698" style="zoom: 67%;" />
+
+<img src="https://gitee.com/OooAlex/study_note/raw/master/img/202410081914785.png" alt="image-20241008191441718"  />
+
